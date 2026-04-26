@@ -2,8 +2,6 @@
 
 > **Urban Heat Island Resident Assistant** — Know your risk. Find cooling near you. Take action.
 
-Built for the Quantum Hackathon | Best Climate Impact Project track
-
 ---
 
 ## The Problem
@@ -92,5 +90,3 @@ lib/
 ```
 
 ---
-
-*Built solo in ~12 hours for the Quantum Hackathon.*
