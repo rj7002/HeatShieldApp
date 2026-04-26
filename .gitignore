@@ -1,3 +1,9 @@
+# Ignore build and cache folders
+dev/cache/
+dev/build/
+dev/logs/
+dev/server/
+dev/static/
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
