@@ -1,0 +1,16 @@
+{
+  "/api/air-quality/route": "app/api/air-quality/route.js",
+  "/api/analyze/street/route": "app/api/analyze/street/route.js",
+  "/api/conditions-brief/route": "app/api/conditions-brief/route.js",
+  "/api/cooling/route": "app/api/cooling/route.js",
+  "/api/forecast/route": "app/api/forecast/route.js",
+  "/api/green-times/route": "app/api/green-times/route.js",
+  "/api/heat-profile/route": "app/api/heat-profile/route.js",
+  "/api/historical/route": "app/api/historical/route.js",
+  "/api/reverse-geocode/route": "app/api/reverse-geocode/route.js",
+  "/compare/page": "app/compare/page.js",
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/page": "app/page.js",
+  "/results/page": "app/results/page.js",
+  "/tools/page": "app/tools/page.js"
+}

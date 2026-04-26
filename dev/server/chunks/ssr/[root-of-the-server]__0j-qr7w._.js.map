@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///Users/ryan/heatshield/components/PwaRegistrar.tsx"],"sourcesContent":["\"use client\";\n\nimport { useEffect } from \"react\";\n\nexport default function PwaRegistrar() {\n  useEffect(() => {\n    if (\"serviceWorker\" in navigator) {\n      navigator.serviceWorker.register(\"/sw.js\").catch(() => {});\n    }\n  }, []);\n\n  return null;\n}\n"],"names":["PwaRegistrar","navigator","serviceWorker","register","catch"],"mappings":";;;;AAEA;AAFA;;AAIe,SAASA;IACtB,IAAA,kNAAS,EAAC;QACR,IAAI,mBAAmBC,WAAW;YAChCA,UAAUC,aAAa,CAACC,QAAQ,CAAC,UAAUC,KAAK,CAAC,KAAO;QAC1D;IACF,GAAG,EAAE;IAEL,OAAO;AACT"}}]
+}
